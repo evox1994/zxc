@@ -309,7 +309,7 @@ ul {
   -moz-background-clip:text;
   background-clip:text;
   background-image: url("../images/bg4.jpg");
-  background-size: 200% 100%;
+  background-size: 150% 100%;
   background-repeat: repeat-x;
   -webkit-animation:BackgroundAnimated 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated 10s linear 1s infinite;
@@ -322,7 +322,7 @@ ul {
       background-position:0 0;
     }
     25%, 100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-webkit-keyframes BackgroundAnimated {
@@ -330,7 +330,7 @@ ul {
       background-position:0 0;
     }
     25%, 100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-ms-keyframes BackgroundAnimated {
@@ -338,7 +338,7 @@ ul {
       background-position:0 0;
     }
     25%, 100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-moz-keyframes BackgroundAnimated {
@@ -346,7 +346,7 @@ ul {
       background-position:0 0;
     }
     25%, 100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 .bg-anim-2 {
@@ -355,8 +355,8 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg4.jpg");
-  background-size: 200% 100%;
+  background-image: url("../images/bg5.jpg");
+  background-size: 150% 100%;
   background-repeat: repeat-x;
   font-weight: bold !important;
   -webkit-animation:BackgroundAnimated-2 10s linear 1s infinite;
@@ -370,7 +370,7 @@ ul {
       background-position:0 0;
     }
     100%, 50% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-webkit-keyframes BackgroundAnimated-2 {
@@ -378,7 +378,7 @@ ul {
       background-position:0 0;
     }
     100%, 50% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-ms-keyframes BackgroundAnimated-2 {
@@ -386,7 +386,7 @@ ul {
       background-position:0 0;
     }
     100%, 50% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-moz-keyframes BackgroundAnimated-2 {
@@ -394,7 +394,7 @@ ul {
       background-position:0 0;
     }
     100%, 50% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 .bg-anim-3 {
@@ -403,8 +403,8 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg4.jpg");
-  background-size: 200% 100%;
+  background-image: url("../images/bg5.jpg");
+  background-size: 150% 100%;
   background-repeat: repeat-x;
   font-weight: bold !important;
   -webkit-animation:BackgroundAnimated-3 10s linear 1s infinite;
@@ -418,7 +418,7 @@ ul {
       background-position:0 0;
     }
     100%, 75% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-webkit-keyframes BackgroundAnimated-3 {
@@ -426,7 +426,7 @@ ul {
       background-position:0 0;
     }
     100%, 75% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-ms-keyframes BackgroundAnimated-3 {
@@ -434,7 +434,7 @@ ul {
       background-position:0 0;
     }
     100%, 75% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-moz-keyframes BackgroundAnimated-3 {
@@ -442,7 +442,7 @@ ul {
       background-position:0 0;
     }
     100%, 75% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 .bg-anim-4 {
@@ -452,7 +452,7 @@ ul {
   -moz-background-clip:text;
   background-clip:text;
   background-image: url("../images/bg4.jpg");
-  background-size: 200% 100%;
+  background-size: 150% 100%;
   background-repeat: repeat-x;
   font-weight: bold !important;
   -webkit-animation:BackgroundAnimated-4 10s linear 1s infinite;
@@ -466,7 +466,7 @@ ul {
       background-position:0 0;
     }
     100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-webkit-keyframes BackgroundAnimated-4 {
@@ -474,7 +474,7 @@ ul {
       background-position:0 0;
     }
     100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-ms-keyframes BackgroundAnimated-4 {
@@ -482,7 +482,7 @@ ul {
       background-position:0 0;
     }
     100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @-moz-keyframes BackgroundAnimated-4 {
@@ -490,7 +490,7 @@ ul {
       background-position:0 0;
     }
     100% {
-      background-position:200% 0;
+      background-position:300% 0;
     }
 }
 @media only screen and (max-width: 375px) {
