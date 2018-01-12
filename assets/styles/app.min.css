@@ -308,7 +308,7 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg4.jpg");
+  background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
   -webkit-animation:BackgroundAnimated 10s linear 1s infinite;
@@ -358,7 +358,8 @@ ul {
   background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
-  font-weight: bold !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
   -webkit-animation:BackgroundAnimated-2 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated-2 10s linear 1s infinite;
   -ms-animation:BackgroundAnimated-2 10s linear 1s infinite;
@@ -406,7 +407,8 @@ ul {
   background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
-  font-weight: bold !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
   -webkit-animation:BackgroundAnimated-3 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated-3 10s linear 1s infinite;
   -ms-animation:BackgroundAnimated-3 10s linear 1s infinite;
@@ -451,10 +453,9 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg4.jpg");
+  background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
-  font-weight: bold !important;
   -webkit-animation:BackgroundAnimated-4 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated-4 10s linear 1s infinite;
   -ms-animation:BackgroundAnimated-4 10s linear 1s infinite;
@@ -1900,6 +1901,7 @@ a.footer-info:hover {
   color: #c1c1c1;
   font-size: 12px;
   line-height: 1.5;
+  padding-left: 21px;
 }
 .header-text span {
   color: #fff690;
@@ -1928,9 +1930,8 @@ a.footer-info:hover {
           align-items: center;
 }
 .header__title {
-  max-width: 340px;
+  max-width: 290px;
   width: 100%;
-  padding-left: 21px;
   border-left: 1px solid #c1c1c1;
 }
 .header__title span {
@@ -1938,11 +1939,13 @@ a.footer-info:hover {
   font-weight: 700;
 }
 .header__info {
-  width: 225px;
+  width: 315px;
+}
+.header__info.info-activity {
+  width: 190px;
 }
 .header__address,
 .header__time {
-  padding-left: 19px;
   position: relative;
 }
 .header__address:before,
