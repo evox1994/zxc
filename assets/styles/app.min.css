@@ -358,8 +358,7 @@ ul {
   background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
-  font-weight: 500 !important;
-  font-size: 18px !important;
+  font-weight: bold !important;
   -webkit-animation:BackgroundAnimated-2 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated-2 10s linear 1s infinite;
   -ms-animation:BackgroundAnimated-2 10s linear 1s infinite;
@@ -407,8 +406,8 @@ ul {
   background-image: url("../images/bg5.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
-  font-weight: 500 !important;
-  font-size: 18px !important;
+  font-weight: bold !important;
+  font-size: 12px !important;
   -webkit-animation:BackgroundAnimated-3 10s linear 1s infinite;
   -moz-animation:BackgroundAnimated-3 10s linear 1s infinite;
   -ms-animation:BackgroundAnimated-3 10s linear 1s infinite;
@@ -1930,7 +1929,7 @@ a.footer-info:hover {
           align-items: center;
 }
 .header__title {
-  max-width: 290px;
+  max-width: 340px;
   width: 100%;
   border-left: 1px solid #c1c1c1;
 }
@@ -1939,10 +1938,7 @@ a.footer-info:hover {
   font-weight: 700;
 }
 .header__info {
-  width: 315px;
-}
-.header__info.info-activity {
-  width: 190px;
+  width: 225px;
 }
 .header__address,
 .header__time {
