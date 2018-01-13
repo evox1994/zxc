@@ -308,7 +308,7 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg5.jpg");
+  background-image: url("../images/bg4.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
   -webkit-animation:BackgroundAnimated 10s linear 1s infinite;
@@ -453,7 +453,7 @@ ul {
   -webkit-background-clip:text;
   -moz-background-clip:text;
   background-clip:text;
-  background-image: url("../images/bg5.jpg");
+  background-image: url("../images/bg4.jpg");
   background-size: 150% 100%;
   background-repeat: repeat-x;
   -webkit-animation:BackgroundAnimated-4 10s linear 1s infinite;
