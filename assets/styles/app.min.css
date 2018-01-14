@@ -844,7 +844,7 @@ ul.yellow li:before {
   }
 }
 .annotation {
-  background: url("/assets/images/bg3.jpg") no-repeat top center;
+  background: url("../images/bg3.jpg") no-repeat top center;
   -o-background-size: cover;
      background-size: cover;
   padding-top: 120px;
